@@ -1,1 +1,7 @@
-i really like the ocean but
+i really like the ocean.
+
+This is for a tutorial on using git
+
+what about now
+
+
